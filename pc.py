@@ -460,7 +460,7 @@ def loadConfig():
         else:
             algorithm = "1"
 
-        efficiency = "95"
+        efficiency = "99"
 
         threadcount = "8"
 
@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "2"
         
-        rig_identiier = "Rig1"
+        rig_identiier = "Rig3"
 
         
 
